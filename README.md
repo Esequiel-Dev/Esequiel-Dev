@@ -1,22 +1,22 @@
-# 👋 Olá, eu sou o Esequiel Silva!
+👋 Olá, eu sou o Esequiel Silva!
 
 🔐Engenheiro de Segurança da Informação**, focado em proteger sistemas, dados e infraestruturas contra ameaças cibernéticas.
 
-## 👀 Interesses
+👀 Interesses
 
 * Segurança da Informação
 * Cibersegurança ofensiva e defensiva
 * Análise de vulnerabilidades
 * Segurança em aplicações e redes
 
-## 🌱 Atualmente estou aprimorando
+🌱 Atualmente estou aprimorando
 
 * Pentest (Web / Redes)
 * Segurança em Cloud (AWS, Azure, etc.)
 * Automação em segurança (Python, scripts)
 * Hardening e boas práticas de segurança
 
-## 💞️ Colaboração
+💞️ Colaboração
 
 Estou aberto a colaborar em:
 
@@ -24,7 +24,7 @@ Estou aberto a colaborar em:
 * Ferramentas open source de segurança
 * Estudos e pesquisas em vulnerabilidades
 
-## 🛠️ Tecnologias & Ferramentas
+ 🛠️ Tecnologias & Ferramentas
 
 * Linux / Bash
 * Python

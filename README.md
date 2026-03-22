@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Esequiel Silva!
 
-🔐Engenheiro de Segurança da Informação**, focado em proteger sistemas, dados e infraestruturas contra ameaças cibernéticas.
+🔐Engenheiro de Segurança da Informação, focado em proteger sistemas, dados e infraestruturas contra ameaças cibernéticas.
 
 👀 Interesses
 

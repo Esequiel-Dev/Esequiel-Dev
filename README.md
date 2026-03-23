@@ -1,70 +1,58 @@
-👋 Olá, eu sou o Esequiel Silva!
+# 👋 Esequiel Silva
 
-🔐 Engenheiro de Segurança da Informação, focado em proteger sistemas, dados e infraestruturas contra ameaças reais — não teóricas.
+🔐 Cybersecurity Student | Foco em Red Team & Segurança Ofensiva
 
-👀 Interesses
-Segurança da Informação
-Red Team & Blue Team
-Análise e exploração de vulnerabilidades
-Segurança em aplicações web e redes
-Threat Intelligence & análise de ataques
+---
 
-🌱 Atualmente estou aprimorando
-Pentest (Web / Redes / Active Directory)
-Segurança em Cloud (AWS, Azure)
-Automação em segurança com Python
-Hardening de sistemas Linux/Windows
-Detecção e resposta a incidentes (SOC)
+## 🚀 Sobre mim
+Estudante de Cibersegurança com foco em práticas ofensivas e análise de vulnerabilidades.  
+Busco desenvolver habilidades reais em ambientes controlados, aplicando conceitos de segurança em redes, sistemas e aplicações.
 
-💞️ Colaboração
-Aberto a contribuir em:
-Projetos de cibersegurança
-Ferramentas open source
-Pesquisa de vulnerabilidades
-Labs e CTFs
+---
 
-🧠 Competências Técnicas (o que recrutador realmente quer ver)
+## 🧠 Competências
 
-🔍 Segurança Ofensiva
-Pentest Web (OWASP Top 10)
-Enumeração e exploração de serviços
-Exploração de falhas comuns (XSS, SQLi, LFI/RFI)
-Reconhecimento (footprinting & scanning)
+### 🔴 Segurança Ofensiva
+- Pentest Web (OWASP Top 10)
+- Enumeração e exploração de serviços
+- Reconhecimento (footprinting & scanning)
 
-🛡️ Segurança Defensiva
-Análise de logs e eventos
-Monitoramento (SOC básico)
-Hardening de sistemas
-Gestão de vulnerabilidades
+### 🔵 Segurança Defensiva
+- Análise de logs e eventos
+- Monitoramento básico (SOC)
+- Hardening de sistemas Linux/Windows
 
-🌐 Redes & Infraestrutura
-TCP/IP, DNS, HTTP/HTTPS
-Análise de tráfego com Wireshark
-Varredura e mapeamento com Nmap
-Conceitos de firewall e segmentação
+### 🌐 Redes & Infraestrutura
+- TCP/IP, DNS, HTTP/HTTPS
+- Análise de tráfego
+- Conceitos de firewall e segmentação
 
-☁️ Cloud Security
-Conceitos de IAM
-Segurança em ambientes AWS/Azure
-Princípio do menor privilégio
-Configuração segura de serviços
+---
 
-⚙️ Automação & Script
-Python para segurança ofensiva/defensiva
-Bash scripting
-Manipulação de logs e dados
+## 🛠️ Tecnologias & Ferramentas
+- Linux / Bash  
+- Python  
+- Wireshark  
+- Nmap  
+- Burp Suite  
+- Metasploit  
+- Git & GitHub  
 
-🔐 Fundamentos Críticos
-Criptografia básica (hashing, salting, etc.)
-Controle de acesso
-Princípios CIA (Confidencialidade, Integridade, Disponibilidade)
+---
 
-🛠️ Tecnologias & Ferramentas
-Linux / Bash
-Python
-Wireshark
-Nmap
-Burp Suite
-Metasploit
-Git & GitHub
-VirtualBox / ambientes de laboratório.
+## 📂 Projetos
+- 🔐 Password Strength Classifier (Machine Learning)  
+- (em constante evolução — novos projetos sendo adicionados)
+
+---
+
+## 🌱 Atualmente estudando
+- Pentest Web e Redes  
+- Segurança em Cloud (AWS, Azure)  
+- Automação em segurança com Python  
+
+---
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/seu-link  
+- GitHub: https://github.com/Esequiel-Dev
